@@ -35,7 +35,7 @@ No App.js, há um botão que altera dinamicamente o nome exibido.
 🏁 Como Executar o Projeto
 
 Clone este repositório
-git clone 
+git clone https://github.com/Aghelena/primeiro-site.git
 
 Acesse a pasta do projeto
 cd meu-projeto
