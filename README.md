@@ -32,7 +32,7 @@ O sistema solicita e exibe o nome do usuário.
 Caso o nome já tenha sido salvo, ele será carregado automaticamente.
 🔄 Alteração de Nome
 No App.js, há um botão que altera dinamicamente o nome exibido.
-🏁 Como Executar o Projeto
+🏁 Como Executar o Projeto!
 
 Clone este repositório
 git clone https://github.com/Aghelena/primeiro-site.git
