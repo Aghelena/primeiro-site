@@ -49,3 +49,7 @@ npm start
 Abra no navegador
 O projeto será executado em: http://localhost:3000
 
+![Descrição da imagem](1.jpeg)
+![Descrição da imagem](2.jpeg)
+![Descrição da imagem](3.jpeg)
+![Descrição da imagem](4.jpeg)
