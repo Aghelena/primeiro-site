@@ -10,7 +10,7 @@ Este é um projeto simples desenvolvido em **React**, que inclui funcionalidades
 
 ## 📂 Estrutura do Projeto  
 
-```bash
+```
 /meu-projeto
 │── /src
 │   ├── /Componentes
@@ -20,6 +20,9 @@ Este é um projeto simples desenvolvido em **React**, que inclui funcionalidades
 │── package.json
 │── README.md
 
+```
+
+```
 🚀 Funcionalidades
 📋 Cadastro de Tarefas
 Permite adicionar tarefas a uma lista.
@@ -48,6 +51,10 @@ npm start
 
 Abra no navegador
 O projeto será executado em: http://localhost:3000
+
+```
+
+📸 Exemplo de Interface
 
 ![Descrição da imagem](1.jpeg)
 ![Descrição da imagem](2.jpeg)
